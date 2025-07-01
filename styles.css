@@ -163,6 +163,9 @@ nav ul li a:hover {
   border: solid 3px #e84949;
   color: black;
 }
+.btn a {
+text-decoration: none;
+}
 
 .imgContainer {
   position: relative;
